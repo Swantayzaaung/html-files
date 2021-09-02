@@ -1,0 +1,8 @@
+#table {
+    background:darkblue;
+    color:white;
+    text-align:center;
+}
+img.a:hover {
+    opacity:0.5;
+}
