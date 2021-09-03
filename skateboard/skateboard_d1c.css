@@ -3,6 +3,6 @@
     color:white;
     text-align:center;
 }
-img.a:hover {
+img#slide:hover {
     opacity:0.5;
 }
