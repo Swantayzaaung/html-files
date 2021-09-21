@@ -1,0 +1,23 @@
+.heading {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.button {
+    background-color: rgb(195, 240, 237);
+    text-align: center;
+}
+
+table {
+    width: 30%;
+}
+
+img.pic {
+    width:100px;
+    height:100px;
+}
+
+#text {
+    text-align:center;
+    border:0;
+}
