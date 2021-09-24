@@ -1,0 +1,14 @@
+#desc {
+    color:rgb(0, 0, 0);
+    background-color:#f0e78c;
+    font-family:Times;
+    font-size:11px;
+}
+ 
+th, td {
+    font-family:Times;
+}
+
+#bottom {
+    font-size: 11px;
+}
