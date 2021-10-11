@@ -1,0 +1,40 @@
+body {background-color:#78c9df;}
+th, td { padding:20px; }
+img { border:10px solid #25648f; }
+a { color:#e7fffbbb; text-decoration: none; }
+a:hover { color:#e7fffbcc; }
+
+.heading {
+    background-color: #022136;
+    color:white;
+    font-family:Arial;
+    font-size:40px;
+    text-align:center;
+    font-weight:bold;
+}
+
+.tab {
+    font-family:Arial;
+    font-size:25px;
+    background-color:#104162;
+    text-align:center;
+}
+.tabfocused {
+    font-family:Arial;
+    font-size:25px;
+    background-color:#186293;
+    color:#e7fffbcc;
+    text-align:center;
+}
+.desc {
+    font-family:Arial;
+    font-size:20px;
+    background-color: #186293;
+    color:#e7fffbbb;
+}
+.media {
+    font-family:Arial;
+    font-size:20px;
+    background-color:#539ac7;
+    color:#022136aa;
+}
