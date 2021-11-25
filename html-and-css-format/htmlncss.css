@@ -1,0 +1,30 @@
+
+            body {
+                background-color: lightgreen;
+                font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+            h1 {
+                color:blueviolet;
+                margin:10px;
+            }
+            h1:hover {
+                color:rgb(76, 16, 133);
+                font-size:30px;2
+            }
+            #box {
+                width:100px;
+                height:100px;
+                background-color: cornflowerblue;
+                margin:30px;
+                transition: width 3s, height 3s, transform 3s;
+            }
+            #box:hover {
+                width:350px;
+                height:350px;
+                background-color: darkred;
+                transition: width 3s, height 3s, transform 3s;
+                transform: rotate(1080deg);
+            }
+            img:hover {
+                transform: scaleY(-1);
+            }

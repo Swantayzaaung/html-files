@@ -2,6 +2,10 @@ li {
     font-family:'Times New Roman';
     font-size:24pt;
 }
+table {
+    border:0;
+    width:90%;
+}
 #img1 {
     width:200px;
     height:350px;

@@ -1,0 +1,33 @@
+table         { border: 1px solid black;
+                border-collapse: separate;
+	            border-spacing:20px;
+				margin-left: auto;
+				margin-right:auto; }
+			
+td            { border: 1px solid black;}
+img { width:100% }
+#A {
+	height: 15%;
+}
+#B {
+	width: 30%;
+	height:20%;
+}
+#C {
+	width: 30%;
+}
+#D {
+	width: 40%;
+}
+#E {
+	height:10%;
+}
+#G {
+	height: 20%;
+}
+#I {
+	height: 10%;
+}
+#K {
+	height: 25%;
+}
